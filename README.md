@@ -1,9 +1,10 @@
-🍽️ Restaurant Menu
+🍽️ ##Restaurant Menu
 Welcome to the Restaurant Menu project – a sleek, dynamic, and user-friendly web application showcasing a beautifully crafted menu. This project highlights the seamless integration of modern web design and functionality to deliver an intuitive user experience.
 📸 Preview
+
 ![Qr-restaurant-javascript](https://github.com/user-attachments/assets/5e48ba52-7c26-4a43-bac8-a0b8df4f13d7)
 
-🌟 Features
+🌟 ## Features
 Dynamic Category Filters: Effortlessly browse through All Products, Breakfast, Lunch, and Shakes.
 Responsive Design: Fully optimized for devices of all sizes.
 Stylish Presentation: Leveraging Bootstrap and custom CSS for an elegant, modern interface.
